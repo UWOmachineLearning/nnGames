@@ -14,9 +14,9 @@ So far, we have :
   
 ## Dependencies
 To run the model successfully, you will need to install ;
-  + [Tensorflow](https://gym.openai.com/docs) 
-  + cmake
-  + swig
-  + Open AI gym
+  + [Tensorflow](https://www.tensorflow.org/install/) 
+  + [cmake](https://cmake.org/install/)
+  + swig (for Mac and Linux users) : brew install swig OR sudo apt-get install swig 
+  + [Open AI gym](https://gym.openai.com/docs) 
   
 
