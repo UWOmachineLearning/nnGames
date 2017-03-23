@@ -16,7 +16,7 @@ So far, we have :
 To run the model successfully, you will need to install ;
   + [Tensorflow](https://www.tensorflow.org/install/) 
   + [cmake](https://cmake.org/install/)
-  + swig (for Mac and Linux users) : 
+  + swig (for Mac and Linux users) : 
       `brew install swig` OR `sudo apt-get install swig` 
   + [Open AI gym](https://gym.openai.com/docs) 
   
