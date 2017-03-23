@@ -1,5 +1,7 @@
 # nnGames
-Neural networks playing video games. This readme act as a progress report and contains dependencies of packages to install in order to successfully play with the model.
+Neural networks playing video games. For this, we will use the openAI gym, which provides a nice and easy to use python API to play video games. Currently, we are implementing the model described in [this paper](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html) from Deepmind, but we intend to try various trianing paradigm and model architectures. Deepmind algorithm finds the optimal solution in about 600 training steps, so that's a nice objective to aim for. Once good results are achieved, we will attempt training the model on more complex games.
+
+This readme act as a progress report and contains dependencies of packages to install in order to successfully play with the model.
 
 ## Progress Summary
 So far, we have :
